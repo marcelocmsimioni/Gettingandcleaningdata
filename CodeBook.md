@@ -41,7 +41,7 @@ The set of variables kept from original and were estimated from these signals ar
 
 Additional variables used:
 
-*Subject refers to the subject number
-*Activity refers to the kind of activity
+* Subject refers to the subject number
+* Activity refers to the kind of activity
 
 Other estimates have been removed for the purpose of this excercise.
