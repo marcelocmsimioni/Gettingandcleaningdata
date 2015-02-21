@@ -39,12 +39,9 @@ The set of variables kept from original and were estimated from these signals ar
 * mean(): Mean value
 * std(): Standard deviation
 
-Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
+Additional variables used:
 
-* gravityMean
-* tBodyAccMean
-* tBodyAccJerkMean
-* tBodyGyroMean
-* tBodyGyroJerkMean
+*Subject refers to the subject number
+*Activity refers to the kind of activity
 
 Other estimates have been removed for the purpose of this excercise.
